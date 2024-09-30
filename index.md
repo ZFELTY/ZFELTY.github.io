@@ -6,7 +6,7 @@ My name is Zachary Felty and I am a graduate of the Robotics Engineering undergr
 
 <div style="margin-top: 50px;"></div> <!-- Adds 50px of vertical space -->
 
-|  SPARCS Payload Assebly      | SPARCS TVAC       | MTW Solar Research       |
+|  SPARCS Payload Assembly      | SPARCS TVAC       | MTW Solar Research       |
 |----------------------|----------------------|----------------------|
 | <img src="images/SPARCS.jpg" width="500" height="300"/> | <img src="images/IMG_1195.PNG" width="500" height="300"/> | <img src="images/MTW.jpg" width="500" height="300"/> |  
 
