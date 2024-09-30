@@ -20,6 +20,8 @@ Another short description.
 
 ![Project Image](images/SPARCS1.png)
 
+### Project Title 3
+
 ![Project Image](images/MTW.jpg)
 
 ## Contact
