@@ -1,4 +1,3 @@
-title: Zachary Felty
 
 ## About Me
 
