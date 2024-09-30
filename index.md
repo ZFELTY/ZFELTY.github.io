@@ -18,7 +18,7 @@ A short description of the project.
 ### Project Title 2
 Another short description.
 
-![Project Image](images/SPARCS1.PNG)
+![Project Image](images/IMG_1195.PNG)
 
 ### Project Title 3
 
