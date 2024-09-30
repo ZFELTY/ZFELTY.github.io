@@ -12,5 +12,5 @@ My name is Zachary Felty and I am a graduate of the Robotics Engineering undergr
 
 
 
-Email: zfelty@asu.edu
-Phone: 6237075537
+Email: zfelty@asu.edu  
+Phone: 623-7070-5537
