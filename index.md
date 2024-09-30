@@ -13,12 +13,14 @@ A brief introduction about yourself.
 ### Project Title
 A short description of the project.
 
-![Project Image](images/SPARCS.png)
+![Project Image](images/SPARCS.jpg)
 
 ### Project Title 2
 Another short description.
 
-![Project Image](images/SPARCS2.png)
+![Project Image](images/SPARCS1.png)
+
+![Project Image](images/MTW.jpg)
 
 ## Contact
 - Email: your-email@example.com
