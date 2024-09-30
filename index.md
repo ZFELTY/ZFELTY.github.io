@@ -9,6 +9,6 @@ My name is Zachary Felty and I am a graduate of the Robotics Engineering undergr
 |----------------------|----------------------|----------------------|
 | <img src="images/SPARCS.jpg" width="500" height="300"/> | <img src="images/IMG_1195.PNG" width="500" height="300"/> | <img src="images/MTW.jpg" width="500" height="300"/> |
 
-## Contact
-- Email: zfelty@asu.edu
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+# Contact
+Email: zfelty@asu.edu
+LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
